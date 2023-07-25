@@ -1,0 +1,17 @@
+C:\Users\Mhleli\source\repos\TechQuiz\TechQuiz\bin\Debug\net6.0-windows\TechQuiz.exe
+C:\Users\Mhleli\source\repos\TechQuiz\TechQuiz\bin\Debug\net6.0-windows\TechQuiz.deps.json
+C:\Users\Mhleli\source\repos\TechQuiz\TechQuiz\bin\Debug\net6.0-windows\TechQuiz.runtimeconfig.json
+C:\Users\Mhleli\source\repos\TechQuiz\TechQuiz\bin\Debug\net6.0-windows\TechQuiz.dll
+C:\Users\Mhleli\source\repos\TechQuiz\TechQuiz\bin\Debug\net6.0-windows\TechQuiz.pdb
+C:\Users\Mhleli\source\repos\TechQuiz\TechQuiz\obj\Debug\net6.0-windows\TechQuiz.csproj.AssemblyReference.cache
+C:\Users\Mhleli\source\repos\TechQuiz\TechQuiz\obj\Debug\net6.0-windows\TechQuiz.Form1.resources
+C:\Users\Mhleli\source\repos\TechQuiz\TechQuiz\obj\Debug\net6.0-windows\TechQuiz.csproj.GenerateResource.cache
+C:\Users\Mhleli\source\repos\TechQuiz\TechQuiz\obj\Debug\net6.0-windows\TechQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mhleli\source\repos\TechQuiz\TechQuiz\obj\Debug\net6.0-windows\TechQuiz.AssemblyInfoInputs.cache
+C:\Users\Mhleli\source\repos\TechQuiz\TechQuiz\obj\Debug\net6.0-windows\TechQuiz.AssemblyInfo.cs
+C:\Users\Mhleli\source\repos\TechQuiz\TechQuiz\obj\Debug\net6.0-windows\TechQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Mhleli\source\repos\TechQuiz\TechQuiz\obj\Debug\net6.0-windows\TechQuiz.dll
+C:\Users\Mhleli\source\repos\TechQuiz\TechQuiz\obj\Debug\net6.0-windows\refint\TechQuiz.dll
+C:\Users\Mhleli\source\repos\TechQuiz\TechQuiz\obj\Debug\net6.0-windows\TechQuiz.pdb
+C:\Users\Mhleli\source\repos\TechQuiz\TechQuiz\obj\Debug\net6.0-windows\TechQuiz.genruntimeconfig.cache
+C:\Users\Mhleli\source\repos\TechQuiz\TechQuiz\obj\Debug\net6.0-windows\ref\TechQuiz.dll

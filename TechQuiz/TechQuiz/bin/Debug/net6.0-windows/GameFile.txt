@@ -1,0 +1,27 @@
+Pharrell Williams,Ye,Pharrell Williams,Virgil Abloh,Who is the current men's Creative Director at LOUIS VUITTON?
+Obama,Trump,Washington,Obama,Who is the former US President in the frame?
+Siamese,Persian,Siamese,Maine Con,To what cat breed does the cat belong belong to?
+network,server,client,network,What is depicted in the frame below?
+IPAddress,subset,operand,IPAddress,Which term refers to a numerical label assigned to each device participating in a computer network?
+Mountains,Valley,Forest,Mountains,Which landscape is depicted in the picture?
+Chromebook,Business laptop,Chromebook,Note Book,what type of laptop is shown below?
+Guitar,Guitar,Piano,Violin,Which musical instrument is shown in the image?
+PSG,Real Madrid,LA Galaxy,PSG,which Football club did David Becham play for before announcing his retirement?
+1937,1937,1935,1933,Volkswagen was founded in Germany in which year?
+Cat,Dog,Bird,Cat,Which animal is featured in the frame?
+Apple,Orange,Apple,Banana,Which fruit is shown in the picture?
+Car,Bicycle,Motorcycle,Car,What mode of transportation is depicted?
+Laptop,Laptop,Smartphone,Tablet,Which device is displayed in the image?
+Coffee,Tea,Coffee,Water,What beverage is shown in the picture?
+Soccer,Football,Basketball,Soccer,Which sport is illustrated in the frame?
+Aviator,Aviator,Cat-Eye,Wraparound,What category of sunglasses do the below sunglasses belong to?
+Beach,Mountain,Desert,Beach,Which scenery is depicted in the image?
+Chair,Chair,Table,Bed,What furniture piece is shown in the picture?
+Sun,Moon,Star,Sun,What celestial object is illustrated in the frame?
+Book,Newspaper,Book,Magazine,Which reading material is shown in the image?
+Clock,Watch,Calendar,Clock,What timekeeping device is depicted?
+Pizza,Pizza,Burger,Pasta,Which food item is shown in the picture?
+Hammer,Screwdriver,Wrench,Hammer,What tool is illustrated in the frame?
+Sunglasses,Hat,Scarf,Sunglasses,Which accessory is shown in the image?
+Fire,Water,Fire,Earth,Which element is depicted in the picture?
+Fire,OPTION-A,OPTION-B,OPTION-C,GAMEOVER!!
